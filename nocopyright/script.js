@@ -4,7 +4,7 @@ let musicArray = [
         author: 'Lokerp',
         duration: '2:13',
         youtubeLink: 'https://www.youtube.com/watch?v=E6cZHbp14bI',
-        imageLink: 'https://imgur.com/qUSD1so',
+        imageLink: 'https://imgur.com/qUSD1so.jpg',
         mp3Link: './music/mp3/Chopper.mp3'
     },
     {
